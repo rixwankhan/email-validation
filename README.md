@@ -65,4 +65,4 @@ The Email Validation System is an essential tool for any organization looking to
 
 **Website:** https://www.pilotverify.net
 
-Looking for a Voicemail Drop system? Contact me at riz@apipilot.com
+Looking for an Email Validation System? Contact me at riz@apipilot.com
